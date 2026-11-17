@@ -1,0 +1,39 @@
+cecha,przedział,WoE,punkty
+wsk_struktury_kapitalu,[-inf; 0.3027),-0.8706305682867946,47
+wsk_struktury_kapitalu,[0.3027; 0.5931),-0.1639852123465414,58
+wsk_struktury_kapitalu,[0.5931; 0.9992),0.5716662491093769,68
+wsk_struktury_kapitalu,[0.9992; 2.922),1.1383784966309758,77
+wsk_struktury_kapitalu,[2.922; inf),0.14334792096198049,62
+wsk_zysk_zobowiazania,[-inf; -0.4316),-0.6750897761422346,52
+wsk_zysk_zobowiazania,[-0.4316; 0),-0.6098363826280465,53
+wsk_zysk_zobowiazania,[0; 0.04134),-0.15427745722553918,58
+wsk_zysk_zobowiazania,[0.04134; 0.1662),0.5109150392125685,66
+wsk_zysk_zobowiazania,[0.1662; inf),0.8749506290803742,70
+wsk_rotacja_wartosci_niewaterialnych,[-inf; 489.9),-0.40981382001444333,53
+wsk_rotacja_wartosci_niewaterialnych,[489.9; 1696),-0.058961858116023516,59
+wsk_rotacja_wartosci_niewaterialnych,[1696; 1.048e+04),0.2072628574451856,64
+wsk_rotacja_wartosci_niewaterialnych,[1.048e+04; 6.035e+04),0.5847621615591716,70
+wsk_rotacja_wartosci_niewaterialnych,[6.035e+04; inf),0.8516385164658017,75
+wsk_zadluzenia_krotkie,[-inf; 1.199),0.22817079887986516,65
+wsk_zadluzenia_krotkie,[1.199; 3.165),-0.2019455373797425,56
+wsk_zadluzenia_krotkie,[3.165; inf),-1.036181145745439,40
+wsk_poziom_kapitalu_obrotowego_netto,[-inf; 2.457e+04),-0.4871760104384639,55
+wsk_poziom_kapitalu_obrotowego_netto,[2.457e+04; 6.664e+04),-0.29957371602044247,57
+wsk_poziom_kapitalu_obrotowego_netto,[6.664e+04; 2.757e+05),0.07165519508964355,61
+wsk_poziom_kapitalu_obrotowego_netto,[2.757e+05; 1.039e+06),0.3553016145161412,64
+wsk_poziom_kapitalu_obrotowego_netto,[1.039e+06; inf),0.910061952612337,69
+wsk_struktury_finansowania,[-inf; 1.339),0.12527848613920894,63
+wsk_struktury_finansowania,[1.339; 1.607),-0.017441699356648466,60
+wsk_struktury_finansowania,[1.607; inf),-0.7293656659960228,43
+schemat_wsk_rzis,SFJIN,-0.08209064136709524,58
+schemat_wsk_rzis,SFJMA,0.32214751005772424,68
+schemat_wsk_rzis,SFJMI,-0.04991219874993326,59
+wsk_zast_kapitalu_podstawowego,[-inf; 1.449),0.17317112833445855,63
+wsk_zast_kapitalu_podstawowego,[1.449; 5),0.07138016488041381,61
+wsk_zast_kapitalu_podstawowego,[5; 50),-0.04424742744917264,59
+wsk_zast_kapitalu_podstawowego,[50; inf),-0.23749172717890893,56
+wsk_stopa_zysku_sprzedaz,[-inf; -16.75),-0.7264689587112338,52
+wsk_stopa_zysku_sprzedaz,[-16.75; -0.5981),-0.5679521248188752,54
+wsk_stopa_zysku_sprzedaz,[-0.5981; 0.005519),-0.12912231603342827,59
+wsk_stopa_zysku_sprzedaz,[0.005519; 0.0819),0.4087738207582561,65
+wsk_stopa_zysku_sprzedaz,[0.0819; inf),1.0907504476417211,72

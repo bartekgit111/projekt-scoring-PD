@@ -1,0 +1,10 @@
+,SHAP (log-szanse),LIME (waga),ranga SHAP (podnosi ryzyko),w 5 najtańszych kontrfaktach
+schemat_wsk_rzis,0.079767896972589,0.0,8,False
+wsk_poziom_kapitalu_obrotowego_netto,0.20521303738429206,0.035181826765245984,4,False
+wsk_rotacja_wartosci_niewaterialnych,0.2907291297859727,0.053868733863913255,2,False
+wsk_stopa_zysku_sprzedaz,0.268550519299552,0.05340296106274516,3,False
+wsk_struktury_finansowania,-0.07932145542869583,-0.0386400052939742,9,False
+wsk_struktury_kapitalu,0.15863309336929404,-0.049222154020471684,7,True
+wsk_zadluzenia_krotkie,0.17593862446011901,0.1127744204757213,5,True
+wsk_zast_kapitalu_podstawowego,0.16159053298372833,0.023925915702192515,6,False
+wsk_zysk_zobowiazania,0.2909553924700948,0.06409607046630868,1,False

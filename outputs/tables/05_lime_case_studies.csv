@@ -1,0 +1,5 @@
+przypadek,PD modelu,PD surogatu LIME,|błąd aproksymacji|,lokalne R²,Jaccard top-5 LIME vs SHAP,top-3 LIME
+A: najwyższe PD,0.5930261170090554,0.441937796931419,0.1510883200776364,0.5778919570841659,1.0,"wsk_struktury_kapitalu, wsk_zysk_zobowiazania, wsk_zadluzenia_krotkie"
+B: graniczny (PD ≈ p*),0.18153026309642653,0.2623605920055598,0.08083032890913325,0.43729944662304465,0.6666666666666666,"wsk_struktury_kapitalu, wsk_zysk_zobowiazania, wsk_struktury_finansowania"
+C: bezpieczny,0.014363999356840984,-0.07727767421406528,0.09164167357090627,0.3116934986683769,0.6666666666666666,"wsk_stopa_zysku_sprzedaz, wsk_zysk_zobowiazania, wsk_rotacja_wartosci_niewaterialnych"
+D: modele się różnią,0.07895891172050848,0.14217751221612823,0.06321860049561975,0.34677768187361857,0.42857142857142855,"wsk_zadluzenia_krotkie, wsk_stopa_zysku_sprzedaz, wsk_zysk_zobowiazania"

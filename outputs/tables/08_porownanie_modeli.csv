@@ -1,0 +1,9 @@
+,logit (karta WoE),LightGBM monotoniczny
+Gini test [95% CI],0.416 [0.295; 0.549],0.461 [0.339; 0.590]
+AUC CV ± sd,0.718 ± 0.034,0.708 ± 0.040
+liczba cech,9,29
+złożoność,"38 przedziałów WoE, 10 parametrów","482 drzew, 964 liści"
+interpretowalność,z konstrukcji (punkty karty),"post hoc (SHAP, PDP, LIME)"
+stabilność wyjaśnień (Jaccard top-5 między foldami),0.77,0.6
+wierność wyjaśnień,pełna (wyjaśnieniem jest sam model),SHAP dokładny; LIME lokalne R² mediana 0.31
+Brier test (surowe),0.1099,0.1086

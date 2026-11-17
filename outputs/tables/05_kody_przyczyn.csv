@@ -1,0 +1,9 @@
+przypadek,model,przyczyna 1,przyczyna 2,przyczyna 3
+A: najwyższe PD,LightGBM,wsk_struktury_kapitalu = 0.0 (φ=+0.49),wsk_zadluzenia_krotkie = 25.42 (φ=+0.41),wsk_zysk_zobowiazania = -2.967 (φ=+0.39)
+A: najwyższe PD,logit,wsk_zadluzenia_krotkie = 25.42 (φ=+0.74),wsk_struktury_finansowania = 25.42 (φ=+0.60),wsk_struktury_kapitalu = 0.0 (φ=+0.51)
+B: graniczny (PD ≈ p*),LightGBM,wsk_struktury_kapitalu = 0.151 (φ=+0.53),wsk_struktury_finansowania = 1.869 (φ=+0.29),wsk_zysk_zobowiazania = 0.0 (φ=+0.10)
+B: graniczny (PD ≈ p*),logit,wsk_struktury_finansowania = 1.869 (φ=+0.60),wsk_struktury_kapitalu = 0.151 (φ=+0.51),wsk_zysk_zobowiazania = 0.0 (φ=+0.11)
+C: bezpieczny,LightGBM,wsk_efekt_dzwigni_fin_2 = 1.004 (φ=+0.03),wsk_zadluzenia_gotowki_1 = 0.036 (φ=+0.01),wsk_liczba_dni_istnienia = 2193.0 (φ=+0.01)
+C: bezpieczny,logit,wsk_struktury_kapitalu = 5.051 (φ=+0.00),,
+D: modele się różnią,LightGBM,wsk_rent_kapitalu = -10.797 (φ=+0.21),wsk_zadluzenia_krotkie = 1.617 (φ=+0.14),pkd_sekcja = N (φ=+0.14)
+D: modele się różnią,logit,wsk_zadluzenia_krotkie = 1.617 (φ=+0.18),wsk_zast_kapitalu_podstawowego = 50.0 (φ=+0.16),wsk_poziom_kapitalu_obrotowego_netto = 80335.88 (φ=+0.01)
